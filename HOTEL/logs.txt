@@ -1,0 +1,4 @@
+2026-07-01 21:24:22 | INFO     | Admin login successful: 'admin'
+2026-07-01 21:24:22 | INFO     | Hotel Management System started.
+2026-07-01 21:37:04 | INFO     | Room added: #101 [Suite] ₹500.00 (ID:1)
+2026-07-01 21:38:10 | INFO     | Customer added: Mohit | 8295724558 (ID:1)
